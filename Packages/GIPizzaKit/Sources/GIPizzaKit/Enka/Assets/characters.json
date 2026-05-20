@@ -61,7 +61,7 @@
       }
     },
     "Element" : "Wind",
-    "NameTextMapHash" : 3221566250,
+    "NameTextMapHash" : 3221565738,
     "ProudMap" : {
       "10031" : 331,
       "10033" : 332,
@@ -90,12 +90,20 @@
       "UI_Talent_U_PlayerWind_01",
       "UI_Talent_S_PlayerWind_04"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Wind",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100543" : 730,
       "10067" : 732,
-      "10068" : 739,
-      "100543" : 730
+      "10068" : 739
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -105,9 +113,47 @@
       10068
     ],
     "Skills" : {
+      "100543" : "Skill_A_01",
       "10067" : "Skill_S_PlayerWind_01",
-      "10068" : "Skill_E_PlayerWind_01",
-      "100543" : "Skill_A_01"
+      "10068" : "Skill_E_PlayerWind_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000005-502" : {
+    "Consts" : [
+      "UI_Talent_S_PlayerFire_01",
+      "UI_Talent_S_PlayerFire_02",
+      "UI_Talent_U_PlayerFire_01",
+      "UI_Talent_S_PlayerFire_03",
+      "UI_Talent_U_PlayerFire_02",
+      "UI_Talent_S_PlayerFire_04"
+    ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
+    "Element" : "Fire",
+    "NameTextMapHash" : 1533656306,
+    "ProudMap" : {
+      "100541" : 530,
+      "10097" : 532,
+      "10098" : 539
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
+    "SkillOrder" : [
+      100541,
+      10097,
+      10098
+    ],
+    "Skills" : {
+      "100541" : "Skill_A_01",
+      "10097" : "Skill_S_PlayerFire_01",
+      "10098" : "Skill_E_PlayerFire_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -120,12 +166,20 @@
       "UI_Talent_U_PlayerWater_02",
       "UI_Talent_S_PlayerWater_04"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Water",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100542" : 630,
       "10087" : 632,
-      "10088" : 639,
-      "100542" : 630
+      "10088" : 639
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -135,9 +189,9 @@
       10088
     ],
     "Skills" : {
+      "100542" : "Skill_A_01",
       "10087" : "Skill_S_PlayerWater_01",
-      "10088" : "Skill_E_PlayerWater_01",
-      "100542" : "Skill_A_01"
+      "10088" : "Skill_E_PlayerWater_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -150,12 +204,20 @@
       "UI_Talent_U_PlayerWind_01",
       "UI_Talent_S_PlayerWind_04"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Wind",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100543" : 730,
       "10067" : 732,
-      "10068" : 739,
-      "100543" : 730
+      "10068" : 739
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -165,9 +227,9 @@
       10068
     ],
     "Skills" : {
+      "100543" : "Skill_A_01",
       "10067" : "Skill_S_PlayerWind_01",
-      "10068" : "Skill_E_PlayerWind_01",
-      "100543" : "Skill_A_01"
+      "10068" : "Skill_E_PlayerWind_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -180,12 +242,20 @@
       "UI_Talent_U_PlayerRock_01",
       "UI_Talent_S_PlayerRock_04"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Rock",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100545" : 730,
       "10077" : 932,
-      "10078" : 939,
-      "100545" : 730
+      "10078" : 939
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -195,9 +265,9 @@
       10078
     ],
     "Skills" : {
+      "100545" : "Skill_A_01",
       "10077" : "Skill_S_PlayerRock_01",
-      "10078" : "Skill_E_PlayerRock_01",
-      "100545" : "Skill_A_01"
+      "10078" : "Skill_E_PlayerRock_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -210,12 +280,20 @@
       "UI_Talent_U_PlayerElectric_02",
       "UI_Talent_S_PlayerElectric_04"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Electric",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100546" : 1030,
       "10602" : 1032,
-      "10605" : 1039,
-      "100546" : 1030
+      "10605" : 1039
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -225,9 +303,9 @@
       10605
     ],
     "Skills" : {
+      "100546" : "Skill_A_01",
       "10602" : "Skill_S_PlayerElectric_01",
-      "10605" : "Skill_E_PlayerElectric_01",
-      "100546" : "Skill_A_01"
+      "10605" : "Skill_E_PlayerElectric_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -240,12 +318,20 @@
       "UI_Talent_S_PlayerGrass_05",
       "UI_Talent_S_PlayerGrass_06"
     ],
+    "Costumes" : {
+      "200501" : {
+        "art" : "UI_Costume_PlayerBoyCostumeCWXR",
+        "avatarId" : 10000005,
+        "icon" : "UI_AvatarIcon_PlayerBoyCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR"
+      }
+    },
     "Element" : "Grass",
-    "NameTextMapHash" : 1533656818,
+    "NameTextMapHash" : 1533656306,
     "ProudMap" : {
+      "100547" : 1130,
       "10117" : 1132,
-      "10118" : 1139,
-      "100547" : 1130
+      "10118" : 1139
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerBoy",
@@ -255,9 +341,9 @@
       10118
     ],
     "Skills" : {
+      "100547" : "Skill_A_01",
       "10117" : "Skill_E_PlayerGrass_01",
-      "10118" : "Skill_S_PlayerGrass_01",
-      "100547" : "Skill_A_01"
+      "10118" : "Skill_S_PlayerGrass_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -308,12 +394,20 @@
       "UI_Talent_U_PlayerWind_01",
       "UI_Talent_S_PlayerWind_04"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Wind",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100553" : 731,
       "10067" : 732,
-      "10068" : 739,
-      "100553" : 731
+      "10068" : 739
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -323,9 +417,47 @@
       10068
     ],
     "Skills" : {
+      "100553" : "Skill_A_01",
       "10067" : "Skill_S_PlayerWind_01",
-      "10068" : "Skill_E_PlayerWind_01",
-      "100553" : "Skill_A_01"
+      "10068" : "Skill_E_PlayerWind_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000007-702" : {
+    "Consts" : [
+      "UI_Talent_S_PlayerFire_01",
+      "UI_Talent_S_PlayerFire_02",
+      "UI_Talent_U_PlayerFire_01",
+      "UI_Talent_S_PlayerFire_03",
+      "UI_Talent_U_PlayerFire_02",
+      "UI_Talent_S_PlayerFire_04"
+    ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
+    "Element" : "Fire",
+    "NameTextMapHash" : 3816664530,
+    "ProudMap" : {
+      "100551" : 531,
+      "10097" : 532,
+      "10098" : 539
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
+    "SkillOrder" : [
+      100551,
+      10097,
+      10098
+    ],
+    "Skills" : {
+      "100551" : "Skill_A_01",
+      "10097" : "Skill_S_PlayerFire_01",
+      "10098" : "Skill_E_PlayerFire_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -338,12 +470,20 @@
       "UI_Talent_U_PlayerWater_02",
       "UI_Talent_S_PlayerWater_04"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Water",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100552" : 631,
       "10087" : 632,
-      "10088" : 639,
-      "100552" : 631
+      "10088" : 639
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -353,9 +493,9 @@
       10088
     ],
     "Skills" : {
+      "100552" : "Skill_A_01",
       "10087" : "Skill_S_PlayerWater_01",
-      "10088" : "Skill_E_PlayerWater_01",
-      "100552" : "Skill_A_01"
+      "10088" : "Skill_E_PlayerWater_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -368,12 +508,20 @@
       "UI_Talent_U_PlayerWind_01",
       "UI_Talent_S_PlayerWind_04"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Wind",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100553" : 731,
       "10067" : 732,
-      "10068" : 739,
-      "100553" : 731
+      "10068" : 739
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -383,9 +531,9 @@
       10068
     ],
     "Skills" : {
+      "100553" : "Skill_A_01",
       "10067" : "Skill_S_PlayerWind_01",
-      "10068" : "Skill_E_PlayerWind_01",
-      "100553" : "Skill_A_01"
+      "10068" : "Skill_E_PlayerWind_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -398,12 +546,20 @@
       "UI_Talent_U_PlayerRock_01",
       "UI_Talent_S_PlayerRock_04"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Rock",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100555" : 731,
       "10077" : 932,
-      "10078" : 939,
-      "100555" : 731
+      "10078" : 939
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -413,9 +569,9 @@
       10078
     ],
     "Skills" : {
+      "100555" : "Skill_A_01",
       "10077" : "Skill_S_PlayerRock_01",
-      "10078" : "Skill_E_PlayerRock_01",
-      "100555" : "Skill_A_01"
+      "10078" : "Skill_E_PlayerRock_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -428,12 +584,20 @@
       "UI_Talent_U_PlayerElectric_02",
       "UI_Talent_S_PlayerElectric_04"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Electric",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100556" : 1031,
       "10602" : 1032,
-      "10605" : 1039,
-      "100556" : 1031
+      "10605" : 1039
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -443,9 +607,9 @@
       10605
     ],
     "Skills" : {
+      "100556" : "Skill_A_01",
       "10602" : "Skill_S_PlayerElectric_01",
-      "10605" : "Skill_E_PlayerElectric_01",
-      "100556" : "Skill_A_01"
+      "10605" : "Skill_E_PlayerElectric_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -458,12 +622,20 @@
       "UI_Talent_S_PlayerGrass_05",
       "UI_Talent_S_PlayerGrass_06"
     ],
+    "Costumes" : {
+      "200701" : {
+        "art" : "UI_Costume_PlayerGirlCostumeCWXR",
+        "avatarId" : 10000007,
+        "icon" : "UI_AvatarIcon_PlayerGirlCostumeCWXR",
+        "sideIconName" : "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR"
+      }
+    },
     "Element" : "Grass",
     "NameTextMapHash" : 3816664530,
     "ProudMap" : {
+      "100557" : 1131,
       "10117" : 1132,
-      "10118" : 1139,
-      "100557" : 1131
+      "10118" : 1139
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_PlayerGirl",
@@ -473,9 +645,9 @@
       10118
     ],
     "Skills" : {
+      "100557" : "Skill_A_01",
       "10117" : "Skill_E_PlayerGrass_01",
-      "10118" : "Skill_S_PlayerGrass_01",
-      "100557" : "Skill_A_01"
+      "10118" : "Skill_S_PlayerGrass_01"
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
@@ -497,7 +669,7 @@
       }
     },
     "Element" : "Water",
-    "NameTextMapHash" : 3775299170,
+    "NameTextMapHash" : 3775298658,
     "ProudMap" : {
       "10070" : 1431,
       "10071" : 1432,
@@ -535,7 +707,7 @@
       }
     },
     "Element" : "Ice",
-    "NameTextMapHash" : 4119663210,
+    "NameTextMapHash" : 4119662698,
     "ProudMap" : {
       "10073" : 1531,
       "10074" : 1532,
@@ -573,7 +745,7 @@
       }
     },
     "Element" : "Fire",
-    "NameTextMapHash" : 3608180322,
+    "NameTextMapHash" : 3608179810,
     "ProudMap" : {
       "10160" : 1631,
       "10161" : 1632,
@@ -603,7 +775,7 @@
       "UI_Talent_S_Razor_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 4160147242,
+    "NameTextMapHash" : 4160146730,
     "ProudMap" : {
       "10201" : 2031,
       "10202" : 2032,
@@ -700,8 +872,16 @@
       "UI_Talent_U_Xiangling_01",
       "UI_Talent_S_Xiangling_04"
     ],
+    "Costumes" : {
+      "202301" : {
+        "art" : "UI_Costume_XianglingCostumeWinter",
+        "avatarId" : 10000023,
+        "icon" : "UI_AvatarIcon_XianglingCostumeWinter",
+        "sideIconName" : "UI_AvatarIcon_Side_XianglingCostumeWinter"
+      }
+    },
     "Element" : "Fire",
-    "NameTextMapHash" : 1130996346,
+    "NameTextMapHash" : 1130995834,
     "ProudMap" : {
       "10231" : 2331,
       "10232" : 2332,
@@ -769,7 +949,7 @@
       }
     },
     "Element" : "Water",
-    "NameTextMapHash" : 4197635682,
+    "NameTextMapHash" : 4197635170,
     "ProudMap" : {
       "10381" : 2531,
       "10382" : 2532,
@@ -799,7 +979,7 @@
       "UI_Talent_S_Xiao_04"
     ],
     "Element" : "Wind",
-    "NameTextMapHash" : 1021947690,
+    "NameTextMapHash" : 1021947178,
     "ProudMap" : {
       "10261" : 2631,
       "10262" : 2632,
@@ -837,7 +1017,7 @@
       }
     },
     "Element" : "Rock",
-    "NameTextMapHash" : 4127888970,
+    "NameTextMapHash" : 4127888458,
     "ProudMap" : {
       "10271" : 2731,
       "10272" : 2732,
@@ -972,8 +1152,16 @@
       "UI_Talent_U_Bennett_02",
       "UI_Talent_S_Bennett_04"
     ],
+    "Costumes" : {
+      "203201" : {
+        "art" : "UI_Costume_BennettCostumeSummer",
+        "avatarId" : 10000032,
+        "icon" : "UI_AvatarIcon_BennettCostumeSummer",
+        "sideIconName" : "UI_AvatarIcon_Side_BennettCostumeSummer"
+      }
+    },
     "Element" : "Fire",
-    "NameTextMapHash" : 968893378,
+    "NameTextMapHash" : 968892866,
     "ProudMap" : {
       "10321" : 3231,
       "10322" : 3232,
@@ -1003,7 +1191,7 @@
       "UI_Talent_S_Tartaglia_04"
     ],
     "Element" : "Water",
-    "NameTextMapHash" : 3847143266,
+    "NameTextMapHash" : 3847142754,
     "ProudMap" : {
       "10331" : 3331,
       "10332" : 3332,
@@ -1033,7 +1221,7 @@
       "UI_Talent_S_Noel_04"
     ],
     "Element" : "Rock",
-    "NameTextMapHash" : 1921418842,
+    "NameTextMapHash" : 1921418330,
     "ProudMap" : {
       "10341" : 3431,
       "10342" : 3432,
@@ -1063,7 +1251,7 @@
       "UI_Talent_S_Qiqi_04"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 168956722,
+    "NameTextMapHash" : 168956210,
     "ProudMap" : {
       "10351" : 3531,
       "10352" : 3532,
@@ -1131,7 +1319,7 @@
       }
     },
     "Element" : "Ice",
-    "NameTextMapHash" : 2679781122,
+    "NameTextMapHash" : 2679780610,
     "ProudMap" : {
       "10371" : 3731,
       "10372" : 3732,
@@ -1161,7 +1349,7 @@
       "UI_Talent_S_Albedo_04"
     ],
     "Element" : "Rock",
-    "NameTextMapHash" : 4108620722,
+    "NameTextMapHash" : 4108620210,
     "ProudMap" : {
       "10386" : 3831,
       "10387" : 3832,
@@ -1191,7 +1379,7 @@
       "UI_Talent_S_Diona_04"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 1468367538,
+    "NameTextMapHash" : 1468367026,
     "ProudMap" : {
       "10391" : 3931,
       "10392" : 3932,
@@ -1394,8 +1582,16 @@
       "UI_Talent_U_Hutao_02",
       "UI_Talent_S_Hutao_04"
     ],
+    "Costumes" : {
+      "204601" : {
+        "art" : "UI_Costume_HutaoCostumeWinter",
+        "avatarId" : 10000046,
+        "icon" : "UI_AvatarIcon_HutaoCostumeWinter",
+        "sideIconName" : "UI_AvatarIcon_Side_HutaoCostumeWinter"
+      }
+    },
     "Element" : "Fire",
-    "NameTextMapHash" : 1940919994,
+    "NameTextMapHash" : 1940919482,
     "ProudMap" : {
       "10461" : 4631,
       "10462" : 4632,
@@ -1515,7 +1711,7 @@
       "UI_Talent_S_Tohma_04"
     ],
     "Element" : "Fire",
-    "NameTextMapHash" : 3555115602,
+    "NameTextMapHash" : 3555115090,
     "ProudMap" : {
       "10501" : 5031,
       "10502" : 5032,
@@ -1545,7 +1741,7 @@
       "UI_Talent_S_Eula_04"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 3717667418,
+    "NameTextMapHash" : 3717666906,
     "ProudMap" : {
       "10511" : 5131,
       "10512" : 5132,
@@ -1575,7 +1771,7 @@
       "UI_Talent_S_Shougun_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 3024507506,
+    "NameTextMapHash" : 3024506994,
     "ProudMap" : {
       "10521" : 5231,
       "10522" : 5232,
@@ -1665,7 +1861,7 @@
       "UI_Talent_S_Gorou_04"
     ],
     "Element" : "Rock",
-    "NameTextMapHash" : 3400133546,
+    "NameTextMapHash" : 3400133034,
     "ProudMap" : {
       "10551" : 5531,
       "10552" : 5532,
@@ -1755,7 +1951,7 @@
       "UI_Talent_S_Yae_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 2713453234,
+    "NameTextMapHash" : 2713452722,
     "ProudMap" : {
       "10581" : 5831,
       "10582" : 5832,
@@ -1785,7 +1981,7 @@
       "UI_Talent_S_Heizo_04"
     ],
     "Element" : "Wind",
-    "NameTextMapHash" : 646032090,
+    "NameTextMapHash" : 646031578,
     "ProudMap" : {
       "10591" : 5931,
       "10592" : 5932,
@@ -1814,8 +2010,16 @@
       "UI_Talent_U_Yelan_02",
       "UI_Talent_S_Yelan_04"
     ],
+    "Costumes" : {
+      "206001" : {
+        "art" : "UI_Costume_YelanCostumeSummer",
+        "avatarId" : 10000060,
+        "icon" : "UI_AvatarIcon_YelanCostumeSummer",
+        "sideIconName" : "UI_AvatarIcon_Side_YelanCostumeSummer"
+      }
+    },
     "Element" : "Water",
-    "NameTextMapHash" : 2848374378,
+    "NameTextMapHash" : 2848373866,
     "ProudMap" : {
       "10606" : 6031,
       "10607" : 6032,
@@ -1853,7 +2057,7 @@
       }
     },
     "Element" : "Grass",
-    "NameTextMapHash" : 1456643042,
+    "NameTextMapHash" : 1456642530,
     "ProudMap" : {
       "10611" : 6131,
       "10612" : 6132,
@@ -1883,7 +2087,7 @@
       "UI_Talent_S_Aloy_Lock"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 3689108098,
+    "NameTextMapHash" : 3689107586,
     "ProudMap" : {
       "10621" : 6231,
       "10622" : 6232,
@@ -1921,7 +2125,7 @@
       }
     },
     "Element" : "Ice",
-    "NameTextMapHash" : 334242634,
+    "NameTextMapHash" : 334242122,
     "ProudMap" : {
       "10631" : 6331,
       "10632" : 6332,
@@ -1951,7 +2155,7 @@
       "UI_Talent_S_Yunjin_04"
     ],
     "Element" : "Rock",
-    "NameTextMapHash" : 655825874,
+    "NameTextMapHash" : 655825362,
     "ProudMap" : {
       "10641" : 6431,
       "10642" : 6432,
@@ -1981,7 +2185,7 @@
       "UI_Talent_S_Shinobu_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 1940821986,
+    "NameTextMapHash" : 1940821474,
     "ProudMap" : {
       "10651" : 6531,
       "10652" : 6532,
@@ -2041,7 +2245,7 @@
       "UI_Talent_S_Collei_04"
     ],
     "Element" : "Grass",
-    "NameTextMapHash" : 2948362178,
+    "NameTextMapHash" : 2948361666,
     "ProudMap" : {
       "10671" : 6731,
       "10672" : 6732,
@@ -2229,7 +2433,7 @@
       "UI_Talent_S_Nahida_04"
     ],
     "Element" : "Grass",
-    "NameTextMapHash" : 712501082,
+    "NameTextMapHash" : 712500570,
     "ProudMap" : {
       "10731" : 7331,
       "10732" : 7332,
@@ -2319,7 +2523,7 @@
       "UI_Talent_S_Faruzan_04"
     ],
     "Element" : "Wind",
-    "NameTextMapHash" : 2387711994,
+    "NameTextMapHash" : 2387711482,
     "ProudMap" : {
       "10761" : 7631,
       "10762" : 7632,
@@ -2348,8 +2552,16 @@
       "UI_Talent_U_Yaoyao_02",
       "UI_Talent_S_Yaoyao_04"
     ],
+    "Costumes" : {
+      "207701" : {
+        "art" : "UI_Costume_YaoyaoCostumeWinter",
+        "avatarId" : 10000077,
+        "icon" : "UI_AvatarIcon_YaoyaoCostumeWinter",
+        "sideIconName" : "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
+      }
+    },
     "Element" : "Grass",
-    "NameTextMapHash" : 1732418482,
+    "NameTextMapHash" : 1732417970,
     "ProudMap" : {
       "10771" : 7731,
       "10772" : 7732,
@@ -2379,7 +2591,7 @@
       "UI_Talent_S_Alhatham_04"
     ],
     "Element" : "Grass",
-    "NameTextMapHash" : 4002157418,
+    "NameTextMapHash" : 4002156906,
     "ProudMap" : {
       "10781" : 7831,
       "10782" : 7832,
@@ -2589,7 +2801,7 @@
       "UI_Talent_S_Freminet_04"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 4201964354,
+    "NameTextMapHash" : 4201963842,
     "ProudMap" : {
       "10851" : 8531,
       "10852" : 8532,
@@ -2619,7 +2831,7 @@
       "UI_Talent_S_Wriothesley_04"
     ],
     "Element" : "Ice",
-    "NameTextMapHash" : 370151050,
+    "NameTextMapHash" : 370150538,
     "ProudMap" : {
       "10861" : 8631,
       "10862" : 8632,
@@ -2648,6 +2860,14 @@
       "UI_Talent_U_Neuvillette_02",
       "UI_Talent_S_Neuvillette_04"
     ],
+    "Costumes" : {
+      "208701" : {
+        "art" : "UI_Costume_NeuvilletteCostumeWinter",
+        "avatarId" : 10000087,
+        "icon" : "UI_AvatarIcon_NeuvilletteCostumeWinter",
+        "sideIconName" : "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
+      }
+    },
     "Element" : "Water",
     "NameTextMapHash" : 1504902330,
     "ProudMap" : {
@@ -2829,7 +3049,7 @@
       "UI_Talent_S_Liuyun_04"
     ],
     "Element" : "Wind",
-    "NameTextMapHash" : 3648220770,
+    "NameTextMapHash" : 3648220258,
     "ProudMap" : {
       "10931" : 9331,
       "10932" : 9332,
@@ -2889,7 +3109,7 @@
       "UI_Talent_S_Sigewinne_04"
     ],
     "Element" : "Water",
-    "NameTextMapHash" : 781488962,
+    "NameTextMapHash" : 781488450,
     "ProudMap" : {
       "10951" : 9531,
       "10952" : 9532,
@@ -2919,7 +3139,7 @@
       "UI_Talent_S_Arlecchino_04"
     ],
     "Element" : "Fire",
-    "NameTextMapHash" : 167199474,
+    "NameTextMapHash" : 167198962,
     "ProudMap" : {
       "10961" : 9631,
       "10962" : 9632,
@@ -2949,7 +3169,7 @@
       "UI_Talent_S_Sethos_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 1431322346,
+    "NameTextMapHash" : 1431321834,
     "ProudMap" : {
       "10971" : 9731,
       "10972" : 9732,
@@ -2979,7 +3199,7 @@
       "UI_Talent_S_Clorinde_04"
     ],
     "Element" : "Electric",
-    "NameTextMapHash" : 2745369298,
+    "NameTextMapHash" : 2745368786,
     "ProudMap" : {
       "10981" : 9831,
       "10982" : 9832,
@@ -3009,7 +3229,7 @@
       "UI_Talent_S_Emilie_04"
     ],
     "Element" : "Grass",
-    "NameTextMapHash" : 1705786122,
+    "NameTextMapHash" : 1705785610,
     "ProudMap" : {
       "10991" : 9931,
       "10992" : 9932,
@@ -3069,7 +3289,7 @@
       "UI_Talent_S_Kinich_04"
     ],
     "Element" : "Grass",
-    "NameTextMapHash" : 4172712634,
+    "NameTextMapHash" : 4172712122,
     "ProudMap" : {
       "11011" : 10131,
       "11012" : 10132,
@@ -3129,7 +3349,7 @@
       "UI_Talent_S_Xilonen_04"
     ],
     "Element" : "Rock",
-    "NameTextMapHash" : 2515292882,
+    "NameTextMapHash" : 2515292370,
     "ProudMap" : {
       "11031" : 10331,
       "11032" : 10332,
@@ -3149,34 +3369,1172 @@
     },
     "WeaponType" : "WEAPON_SWORD_ONE_HAND"
   },
-  "10000901" : {
+  "10000104" : {
     "Consts" : [
-      "UI_Talent_S_Xiangling_01",
-      "UI_Talent_S_Xiangling_02",
-      "UI_Talent_U_Xiangling_02",
-      "UI_Talent_S_Xiangling_03",
-      "UI_Talent_U_Xiangling_01",
-      "UI_Talent_S_Xiangling_04"
+      "UI_Talent_S_Chasca_01",
+      "UI_Talent_S_Chasca_02",
+      "UI_Talent_U_Chasca_01",
+      "UI_Talent_S_Chasca_03",
+      "UI_Talent_U_Chasca_02",
+      "UI_Talent_S_Chasca_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 3746229466,
+    "ProudMap" : {
+      "11041" : 10431,
+      "11042" : 10432,
+      "11045" : 10439
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Chasca",
+    "SkillOrder" : [
+      11041,
+      11042,
+      11045
+    ],
+    "Skills" : {
+      "11041" : "Skill_A_02",
+      "11042" : "Skill_S_Chasca_01",
+      "11045" : "Skill_E_Chasca_01"
+    },
+    "WeaponType" : "WEAPON_BOW"
+  },
+  "10000105" : {
+    "Consts" : [
+      "UI_Talent_S_Olorun_01",
+      "UI_Talent_S_Olorun_02",
+      "UI_Talent_U_Olorun_01",
+      "UI_Talent_S_Olorun_03",
+      "UI_Talent_U_Olorun_02",
+      "UI_Talent_S_Olorun_04"
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 1198350762,
+    "ProudMap" : {
+      "30501" : 10531,
+      "30502" : 10532,
+      "30505" : 10539
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Olorun",
+    "SkillOrder" : [
+      30501,
+      30502,
+      30505
+    ],
+    "Skills" : {
+      "30501" : "Skill_A_02",
+      "30502" : "Skill_S_Olorun_01",
+      "30505" : "Skill_E_Olorun_01"
+    },
+    "WeaponType" : "WEAPON_BOW"
+  },
+  "10000106" : {
+    "Consts" : [
+      "UI_Talent_S_Mavuika_01",
+      "UI_Talent_S_Mavuika_02",
+      "UI_Talent_U_Mavuika_01",
+      "UI_Talent_S_Mavuika_03",
+      "UI_Talent_U_Mavuika_02",
+      "UI_Talent_S_Mavuika_04"
     ],
     "Element" : "Fire",
-    "NameTextMapHash" : 3293134650,
+    "NameTextMapHash" : 113398050,
     "ProudMap" : {
-      "10231" : 2331,
-      "10232" : 2332,
-      "10235" : 2339
+      "11061" : 10631,
+      "11062" : 10632,
+      "11065" : 10639
     },
     "QualityType" : "QUALITY_ORANGE",
     "SideIconName" : "UI_AvatarIcon_Side_Mavuika",
     "SkillOrder" : [
-      10231,
-      10232,
-      10235
+      11061,
+      11062,
+      11065
     ],
     "Skills" : {
-      "10231" : "Skill_A_03",
-      "10232" : "Skill_S_Xiangling_01",
-      "10235" : "Skill_E_Xiangling_01"
+      "11061" : "Skill_A_04",
+      "11062" : "Skill_S_Mavuika_01",
+      "11065" : "Skill_E_Mavuika_01"
     },
     "WeaponType" : "WEAPON_CLAYMORE"
+  },
+  "10000107" : {
+    "Consts" : [
+      "UI_Talent_S_Citlali_01",
+      "UI_Talent_S_Citlali_02",
+      "UI_Talent_U_Citlali_01",
+      "UI_Talent_S_Citlali_03",
+      "UI_Talent_U_Citlali_02",
+      "UI_Talent_S_Citlali_04"
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 1197974530,
+    "ProudMap" : {
+      "11071" : 10731,
+      "11072" : 10732,
+      "11075" : 10739
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Citlali",
+    "SkillOrder" : [
+      11071,
+      11072,
+      11075
+    ],
+    "Skills" : {
+      "11071" : "Skill_A_Catalyst_MD",
+      "11072" : "Skill_S_Citlali_01",
+      "11075" : "Skill_E_Citlali_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000108" : {
+    "Consts" : [
+      "UI_Talent_S_Lanyan_01",
+      "UI_Talent_S_Lanyan_02",
+      "UI_Talent_U_Lanyan_01",
+      "UI_Talent_S_Lanyan_03",
+      "UI_Talent_U_Lanyan_02",
+      "UI_Talent_S_Lanyan_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 1888132250,
+    "ProudMap" : {
+      "11081" : 10831,
+      "11082" : 10832,
+      "11085" : 10839
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Lanyan",
+    "SkillOrder" : [
+      11081,
+      11082,
+      11085
+    ],
+    "Skills" : {
+      "11081" : "Skill_A_Catalyst_MD",
+      "11082" : "Skill_S_Lanyan_01",
+      "11085" : "Skill_E_Lanyan_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000109" : {
+    "Consts" : [
+      "UI_Talent_S_Mizuki_01",
+      "UI_Talent_S_Mizuki_02",
+      "UI_Talent_U_Mizuki_01",
+      "UI_Talent_S_Mizuki_03",
+      "UI_Talent_U_Mizuki_02",
+      "UI_Talent_S_Mizuki_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 3784387026,
+    "ProudMap" : {
+      "11091" : 10931,
+      "11092" : 10932,
+      "11095" : 10939
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Mizuki",
+    "SkillOrder" : [
+      11091,
+      11092,
+      11095
+    ],
+    "Skills" : {
+      "11091" : "Skill_A_Catalyst_MD",
+      "11092" : "Skill_S_Mizuki_01",
+      "11095" : "Skill_E_Mizuki_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000110" : {
+    "Consts" : [
+      "UI_Talent_S_Iansan_01",
+      "UI_Talent_S_Iansan_02",
+      "UI_Talent_U_Iansan_01",
+      "UI_Talent_S_Iansan_03",
+      "UI_Talent_U_Iansan_02",
+      "UI_Talent_S_Iansan_04"
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 3120492002,
+    "ProudMap" : {
+      "11101" : 11031,
+      "11102" : 11032,
+      "11105" : 11039
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Iansan",
+    "SkillOrder" : [
+      11101,
+      11102,
+      11105
+    ],
+    "Skills" : {
+      "11101" : "Skill_A_03",
+      "11102" : "Skill_S_Iansan_01",
+      "11105" : "Skill_E_Iansan_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000111" : {
+    "Consts" : [
+      "UI_Talent_S_Varesa_01",
+      "UI_Talent_S_Varesa_02",
+      "UI_Talent_U_Varesa_01",
+      "UI_Talent_S_Varesa_03",
+      "UI_Talent_U_Varesa_02",
+      "UI_Talent_S_Varesa_04"
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 283438362,
+    "ProudMap" : {
+      "11111" : 11131,
+      "11112" : 11132,
+      "11115" : 11139
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Varesa",
+    "SkillOrder" : [
+      11111,
+      11112,
+      11115
+    ],
+    "Skills" : {
+      "11111" : "Skill_A_Catalyst_MD",
+      "11112" : "Skill_S_Varesa_01",
+      "11115" : "Skill_E_Varesa_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000112" : {
+    "Consts" : [
+      "UI_Talent_S_Escoffier_01",
+      "UI_Talent_S_Escoffier_02",
+      "UI_Talent_U_Escoffier_01",
+      "UI_Talent_S_Escoffier_03",
+      "UI_Talent_U_Escoffier_02",
+      "UI_Talent_S_Escoffier_04"
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 4035850498,
+    "ProudMap" : {
+      "11121" : 11231,
+      "11122" : 11232,
+      "11125" : 11239
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Escoffier",
+    "SkillOrder" : [
+      11121,
+      11122,
+      11125
+    ],
+    "Skills" : {
+      "11121" : "Skill_A_03",
+      "11122" : "Skill_S_Escoffier_01",
+      "11125" : "Skill_E_Escoffier_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000113" : {
+    "Consts" : [
+      "UI_Talent_S_Ifa_01",
+      "UI_Talent_S_Ifa_02",
+      "UI_Talent_U_Ifa_01",
+      "UI_Talent_S_Ifa_03",
+      "UI_Talent_U_Ifa_02",
+      "UI_Talent_S_Ifa_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 3398664506,
+    "ProudMap" : {
+      "11131" : 11331,
+      "11132" : 11332,
+      "11135" : 11339
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Ifa",
+    "SkillOrder" : [
+      11131,
+      11132,
+      11135
+    ],
+    "Skills" : {
+      "11131" : "Skill_A_Catalyst_MD",
+      "11132" : "Skill_S_Ifa_01",
+      "11135" : "Skill_E_Ifa_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000114" : {
+    "Consts" : [
+      "UI_Talent_S_SkirkNew_01",
+      "UI_Talent_S_SkirkNew_02",
+      "UI_Talent_U_SkirkNew_01",
+      "UI_Talent_S_SkirkNew_03",
+      "UI_Talent_U_SkirkNew_02",
+      "UI_Talent_S_SkirkNew_04"
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 123650378,
+    "ProudMap" : {
+      "11141" : 11431,
+      "11142" : 11432,
+      "11145" : 11439
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_SkirkNew",
+    "SkillOrder" : [
+      11141,
+      11142,
+      11145
+    ],
+    "Skills" : {
+      "11141" : "Skill_A_01",
+      "11142" : "Skill_S_SkirkNew_01",
+      "11145" : "Skill_E_SkirkNew_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000115" : {
+    "Consts" : [
+      "UI_Talent_S_Dahlia_01",
+      "UI_Talent_S_Dahlia_02",
+      "UI_Talent_U_Dahlia_01",
+      "UI_Talent_S_Dahlia_03",
+      "UI_Talent_U_Dahlia_02",
+      "UI_Talent_S_Dahlia_04"
+    ],
+    "Element" : "Water",
+    "NameTextMapHash" : 2332663914,
+    "ProudMap" : {
+      "11151" : 11531,
+      "11152" : 11532,
+      "11155" : 11539
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Dahlia",
+    "SkillOrder" : [
+      11151,
+      11152,
+      11155
+    ],
+    "Skills" : {
+      "11151" : "Skill_A_01",
+      "11152" : "Skill_S_Dahlia_01",
+      "11155" : "Skill_E_Dahlia_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000116" : {
+    "Consts" : [
+      "UI_Talent_S_Ineffa_01",
+      "UI_Talent_S_Ineffa_02",
+      "UI_Talent_U_Ineffa_01",
+      "UI_Talent_S_Ineffa_03",
+      "UI_Talent_U_Ineffa_02",
+      "UI_Talent_S_Ineffa_04"
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 2759230658,
+    "ProudMap" : {
+      "11161" : 11631,
+      "11162" : 11632,
+      "11165" : 11639
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Ineffa",
+    "SkillOrder" : [
+      11161,
+      11162,
+      11165
+    ],
+    "Skills" : {
+      "11161" : "Skill_A_03",
+      "11162" : "Skill_S_Ineffa_01",
+      "11165" : "Skill_E_Ineffa_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000117-11702" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Fire",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111751" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111751
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111751" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11703" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Water",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111752" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111752
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111752" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11704" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111753" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111753
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111753" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11705" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111754" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111754
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111754" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11706" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111755" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111755
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111755" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11707" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Rock",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111756" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111756
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111756" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000117-11708" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Grass",
+    "NameTextMapHash" : 1496871274,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111757" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinBoy",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111757
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111757" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11802" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Fire",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111751" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111751
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111751" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11803" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Water",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111752" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111752
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111752" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11804" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111753" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111753
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111753" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11805" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111754" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111754
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111754" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11806" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111755" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111755
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111755" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11807" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Rock",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111756" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111756
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111756" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000118-11808" : {
+    "Consts" : [
+
+    ],
+    "Element" : "Grass",
+    "NameTextMapHash" : 4125864442,
+    "ProudMap" : {
+      "11171" : 11731,
+      "11172" : 11732,
+      "111757" : 11739
+    },
+    "QualityType" : "QUALITY_ORANGE_SP",
+    "SideIconName" : "UI_AvatarIcon_Side_MannequinGirl",
+    "SkillOrder" : [
+      11171,
+      11172,
+      111757
+    ],
+    "Skills" : {
+      "11171" : "Skill_A_01",
+      "11172" : "Skill_S_LittleIdol_01",
+      "111757" : "Skill_E_LittleIdol_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000119" : {
+    "Consts" : [
+      "UI_Talent_S_Lauma_01",
+      "UI_Talent_S_Lauma_02",
+      "UI_Talent_U_Lauma_01",
+      "UI_Talent_S_Lauma_03",
+      "UI_Talent_U_Lauma_02",
+      "UI_Talent_S_Lauma_04"
+    ],
+    "Element" : "Grass",
+    "NameTextMapHash" : 1776873506,
+    "ProudMap" : {
+      "11191" : 11931,
+      "11192" : 11932,
+      "11195" : 11939
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Lauma",
+    "SkillOrder" : [
+      11191,
+      11192,
+      11195
+    ],
+    "Skills" : {
+      "11191" : "Skill_A_Catalyst_MD",
+      "11192" : "Skill_S_Lauma_01",
+      "11195" : "Skill_E_Lauma_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000120" : {
+    "Consts" : [
+      "UI_Talent_S_Flins_01",
+      "UI_Talent_S_Flins_02",
+      "UI_Talent_U_Flins_02",
+      "UI_Talent_S_Flins_03",
+      "UI_Talent_U_Flins_01",
+      "UI_Talent_S_Flins_04"
+    ],
+    "Element" : "Electric",
+    "NameTextMapHash" : 1804674298,
+    "ProudMap" : {
+      "11201" : 12031,
+      "11202" : 12032,
+      "11205" : 12039
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Flins",
+    "SkillOrder" : [
+      11201,
+      11202,
+      11205
+    ],
+    "Skills" : {
+      "11201" : "Skill_A_03",
+      "11202" : "Skill_S_Flins_01",
+      "11205" : "Skill_E_Flins_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000121" : {
+    "Consts" : [
+      "UI_Talent_S_Aino_03",
+      "UI_Talent_S_Aino_02",
+      "UI_Talent_U_Aino_01",
+      "UI_Talent_S_Aino_01",
+      "UI_Talent_U_Aino_02",
+      "UI_Talent_S_Aino_04"
+    ],
+    "Element" : "Water",
+    "NameTextMapHash" : 3887687898,
+    "ProudMap" : {
+      "11211" : 12131,
+      "11212" : 12132,
+      "11215" : 12139
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Aino",
+    "SkillOrder" : [
+      11211,
+      11212,
+      11215
+    ],
+    "Skills" : {
+      "11211" : "Skill_A_04",
+      "11212" : "Skill_S_Aino_01",
+      "11215" : "Skill_E_Aino_01"
+    },
+    "WeaponType" : "WEAPON_CLAYMORE"
+  },
+  "10000122" : {
+    "Consts" : [
+      "UI_Talent_S_Nefer_01",
+      "UI_Talent_S_Nefer_02",
+      "UI_Talent_U_Nefer_01",
+      "UI_Talent_S_Nefer_03",
+      "UI_Talent_U_Nefer_02",
+      "UI_Talent_S_Nefer_04"
+    ],
+    "Element" : "Grass",
+    "NameTextMapHash" : 2745785690,
+    "ProudMap" : {
+      "11221" : 12231,
+      "11222" : 12232,
+      "11225" : 12239
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Nefer",
+    "SkillOrder" : [
+      11221,
+      11222,
+      11225
+    ],
+    "Skills" : {
+      "11221" : "Skill_A_Catalyst_MD",
+      "11222" : "Skill_S_Nefer_01",
+      "11225" : "Skill_E_Nefer_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000123" : {
+    "Consts" : [
+      "UI_Talent_S_Durin_03",
+      "UI_Talent_S_Durin_04",
+      "UI_Talent_U_Durin_01",
+      "UI_Talent_S_Durin_05",
+      "UI_Talent_U_Durin_02",
+      "UI_Talent_S_Durin_06"
+    ],
+    "Costumes" : {
+      "212301" : {
+        "art" : "UI_Costume_DurinCostumeWic",
+        "avatarId" : 10000123,
+        "icon" : "UI_AvatarIcon_DurinCostumeWic",
+        "sideIconName" : "UI_AvatarIcon_Side_DurinCostumeWic"
+      }
+    },
+    "Element" : "Fire",
+    "NameTextMapHash" : 2801077538,
+    "ProudMap" : {
+      "11231" : 12331,
+      "11232" : 12332,
+      "11235" : 12339
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Durin",
+    "SkillOrder" : [
+      11231,
+      11232,
+      11235
+    ],
+    "Skills" : {
+      "11231" : "Skill_A_01",
+      "11232" : "Skill_S_Durin_01",
+      "11235" : "Skill_E_Durin_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000124" : {
+    "Consts" : [
+      "UI_Talent_S_Jahoda_03",
+      "UI_Talent_S_Jahoda_02",
+      "UI_Talent_U_Jahoda_01",
+      "UI_Talent_S_Jahoda_01",
+      "UI_Talent_U_Jahoda_02",
+      "UI_Talent_S_Jahoda_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 1438964010,
+    "ProudMap" : {
+      "11241" : 12431,
+      "11242" : 12432,
+      "11245" : 12439
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Jahoda",
+    "SkillOrder" : [
+      11241,
+      11242,
+      11245
+    ],
+    "Skills" : {
+      "11241" : "Skill_A_02",
+      "11242" : "Skill_S_Jahoda_01",
+      "11245" : "Skill_E_Jahoda_01"
+    },
+    "WeaponType" : "WEAPON_BOW"
+  },
+  "10000125" : {
+    "Consts" : [
+      "UI_Talent_S_Columbina_01",
+      "UI_Talent_S_Columbina_02",
+      "UI_Talent_U_Columbina_01",
+      "UI_Talent_S_Columbina_03",
+      "UI_Talent_U_Columbina_02",
+      "UI_Talent_S_Columbina_04"
+    ],
+    "Element" : "Water",
+    "NameTextMapHash" : 1888371106,
+    "ProudMap" : {
+      "11251" : 12531,
+      "11252" : 12532,
+      "11255" : 12539
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Columbina",
+    "SkillOrder" : [
+      11251,
+      11252,
+      11255
+    ],
+    "Skills" : {
+      "11251" : "Skill_A_Catalyst_MD",
+      "11252" : "Skill_S_Columbina_01",
+      "11255" : "Skill_E_Columbina_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000126" : {
+    "Consts" : [
+      "UI_Talent_S_Zibai_01",
+      "UI_Talent_S_Zibai_02",
+      "UI_Talent_U_Zibai_01",
+      "UI_Talent_S_Zibai_03",
+      "UI_Talent_U_Zibai_02",
+      "UI_Talent_S_Zibai_04"
+    ],
+    "Element" : "Rock",
+    "NameTextMapHash" : 937532578,
+    "ProudMap" : {
+      "11261" : 12631,
+      "11262" : 12632,
+      "11265" : 12639
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Zibai",
+    "SkillOrder" : [
+      11261,
+      11262,
+      11265
+    ],
+    "Skills" : {
+      "11261" : "Skill_A_01",
+      "11262" : "Skill_S_Zibai_01",
+      "11265" : "Skill_E_Zibai_01"
+    },
+    "WeaponType" : "WEAPON_SWORD_ONE_HAND"
+  },
+  "10000127" : {
+    "Consts" : [
+      "UI_Talent_S_Illuga_01",
+      "UI_Talent_S_Illuga_02",
+      "UI_Talent_U_Illuga_01",
+      "UI_Talent_S_Illuga_03",
+      "UI_Talent_U_Illuga_02",
+      "UI_Talent_S_Illuga_04"
+    ],
+    "Element" : "Rock",
+    "NameTextMapHash" : 102656474,
+    "ProudMap" : {
+      "11271" : 12731,
+      "11272" : 12732,
+      "11275" : 12739
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Illuga",
+    "SkillOrder" : [
+      11271,
+      11272,
+      11275
+    ],
+    "Skills" : {
+      "11271" : "Skill_A_03",
+      "11272" : "Skill_S_Illuga_01",
+      "11275" : "Skill_E_Illuga_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000128" : {
+    "Consts" : [
+      "UI_Talent_S_Varka_01",
+      "UI_Talent_S_Varka_02",
+      "UI_Talent_U_Varka_01",
+      "UI_Talent_S_Varka_03",
+      "UI_Talent_U_Varka_02",
+      "UI_Talent_S_Varka_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 963351866,
+    "ProudMap" : {
+      "11281" : 12831,
+      "11282" : 12832,
+      "11285" : 12839
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Varka",
+    "SkillOrder" : [
+      11281,
+      11282,
+      11285
+    ],
+    "Skills" : {
+      "11281" : "Skill_A_04",
+      "11282" : "Skill_S_Varka_01",
+      "11285" : "Skill_E_Varka_01"
+    },
+    "WeaponType" : "WEAPON_CLAYMORE"
+  },
+  "10000129" : {
+    "Consts" : [
+      "UI_Talent_S_Lohen_01",
+      "UI_Talent_S_Lohen_02",
+      "UI_Talent_U_Lohen_01",
+      "UI_Talent_S_Lohen_03",
+      "UI_Talent_U_Lohen_02",
+      "UI_Talent_S_Lohen_04"
+    ],
+    "Element" : "Ice",
+    "NameTextMapHash" : 2872823194,
+    "ProudMap" : {
+      "11291" : 12931,
+      "11292" : 12932,
+      "11295" : 12939
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Lohen",
+    "SkillOrder" : [
+      11291,
+      11292,
+      11295
+    ],
+    "Skills" : {
+      "11291" : "Skill_A_03",
+      "11292" : "Skill_S_Lohen_01",
+      "11295" : "Skill_E_Lohen_01"
+    },
+    "WeaponType" : "WEAPON_POLE"
+  },
+  "10000130" : {
+    "Consts" : [
+      "UI_Talent_S_Linnea_01",
+      "UI_Talent_S_Linnea_02",
+      "UI_Talent_U_Linnea_01",
+      "UI_Talent_S_Linnea_03",
+      "UI_Talent_U_Linnea_02",
+      "UI_Talent_S_Linnea_04"
+    ],
+    "Element" : "Rock",
+    "NameTextMapHash" : 1961019898,
+    "ProudMap" : {
+      "11301" : 13031,
+      "11302" : 13032,
+      "11305" : 13039
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Linnea",
+    "SkillOrder" : [
+      11301,
+      11302,
+      11305
+    ],
+    "Skills" : {
+      "11301" : "Skill_A_02",
+      "11302" : "Skill_S_Linnea_01",
+      "11305" : "Skill_E_Linnea_01"
+    },
+    "WeaponType" : "WEAPON_BOW"
+  },
+  "10000131" : {
+    "Consts" : [
+      "UI_Talent_S_Nicole_01",
+      "UI_Talent_S_Nicole_02",
+      "UI_Talent_U_Nicole_01",
+      "UI_Talent_S_Nicole_03",
+      "UI_Talent_U_Nicole_02",
+      "UI_Talent_S_Nicole_04"
+    ],
+    "Element" : "Fire",
+    "NameTextMapHash" : 1711582634,
+    "ProudMap" : {
+      "11311" : 13131,
+      "11312" : 13132,
+      "11315" : 13139
+    },
+    "QualityType" : "QUALITY_ORANGE",
+    "SideIconName" : "UI_AvatarIcon_Side_Nicole",
+    "SkillOrder" : [
+      11311,
+      11312,
+      11315
+    ],
+    "Skills" : {
+      "11311" : "Skill_A_Catalyst_MD",
+      "11312" : "Skill_S_Nicole_01",
+      "11315" : "Skill_E_Nicole_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
+  },
+  "10000132" : {
+    "Consts" : [
+      "UI_Talent_S_Prune_01",
+      "UI_Talent_S_Prune_02",
+      "UI_Talent_U_Prune_01",
+      "UI_Talent_S_Prune_03",
+      "UI_Talent_U_Prune_02",
+      "UI_Talent_S_Prune_04"
+    ],
+    "Element" : "Wind",
+    "NameTextMapHash" : 2787504450,
+    "ProudMap" : {
+      "11321" : 13231,
+      "11322" : 13232,
+      "11325" : 13239
+    },
+    "QualityType" : "QUALITY_PURPLE",
+    "SideIconName" : "UI_AvatarIcon_Side_Prune",
+    "SkillOrder" : [
+      11321,
+      11322,
+      11325
+    ],
+    "Skills" : {
+      "11321" : "Skill_A_Catalyst_MD",
+      "11322" : "Skill_S_Prune_01",
+      "11325" : "Skill_E_Prune_01"
+    },
+    "WeaponType" : "WEAPON_CATALYST"
   }
 }
